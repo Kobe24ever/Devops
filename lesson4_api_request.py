@@ -13,7 +13,7 @@ def hello():
 
 @app.route('/')
 def my_func():
-    return "hello me kebeb"
+    return "hello there"
 
 if __name__ == '__main__':
     app.run(debug=True)
