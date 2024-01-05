@@ -4,7 +4,7 @@ second = 44.3
 print(first + second)
 print(first * second)
 print(first / second)
-
+print('yahooo')
 # Q2
 # The values would be:
 # a = 9
